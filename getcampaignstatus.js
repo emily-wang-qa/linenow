@@ -9,7 +9,7 @@ export function setup() {
         requestHeaders: {
             headers: {
                 "Content-Type": "application/json",
-                "Authorization": "eyJhbGciOiJIUzI1NiJ9.8fdStCFACYXhT-4ODJ8BEZ1P6J2jpXO5sfhe8UoaKjNYjaScp-31D_lEEdz9eLWf6bhkO7z7twTRB3qMc3S0ebYUuYQtx-pWhKl7_itaCuJK1iUWub149Arlde25gfGW2VMIDa8EYnx5aSljJ7QrAF3oEw7qTlbx3LYwQXxcNC4.zBPX4yAubDB4xK74mQHlgi0gw1Sp_R1mMowvk_QZ7A4"
+                "Authorization": "eyJhbGciOiJIUzI1NiJ9.0cjy_q8CJ2Lh9yxBxbHboKZgUd_3g9UkpQp7judXskB_dF8aU0mEGH0j-Jnm5tU-G3LeaT8Pqu4ggE1Tv7pTvvAQ-37bs-G7_HUcY0Re1nnvYJjPSYY543fj7IeT_klfI9wMbo5afiVM_vAGNGQYjgz3d7_hrTenavVf2La_-3s._457ReNE0sLfu0CFbKNsK1CTO6KBma8oG0UvfgwK1ww"
             }
 
         }
